@@ -20,7 +20,7 @@ componentes: Conmponente[] = [
     redirectTo: '/action-sheet'
   },
   {
-    icon: 'warning',
+    icon: 'alert-circle-outline',
     name: 'Alert',
     redirectTo: '/alert'
   }
