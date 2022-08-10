@@ -34,6 +34,12 @@ componentes: Conmponente[] = [
     name: 'Button',
     redirectTo: '/button'
   }
+  ,
+  {
+    icon: 'card-outline',
+    name: 'Cards',
+    redirectTo: '/card'
+  }
 ];
 
   constructor() { }
