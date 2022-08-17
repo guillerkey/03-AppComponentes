@@ -39,6 +39,11 @@ componentes: Conmponente[] = [
     icon: 'card-outline',
     name: 'Cards',
     redirectTo: '/card'
+  },
+  {
+    icon: 'checkmark-circle-outline',
+    name: 'Checks',
+    redirectTo: '/check'
   }
 ];
 
