@@ -44,6 +44,11 @@ componentes: Conmponente[] = [
     icon: 'checkmark-circle-outline',
     name: 'Checks',
     redirectTo: '/check'
+  },
+  {
+    icon: 'calendar-outline',
+    name: 'DateTime',
+    redirectTo: '/date-time'
   }
 ];
 
