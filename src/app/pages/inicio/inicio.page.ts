@@ -49,6 +49,11 @@ componentes: Conmponente[] = [
     icon: 'calendar-outline',
     name: 'DateTime',
     redirectTo: '/date-time'
+  },
+  {
+    icon: 'car-outline',
+    name: 'fab',
+    redirectTo: '/fab'
   }
 ];
 
